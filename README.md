@@ -4,8 +4,13 @@ Um projeto simples de **Link Tree** desenvolvido com **HTML e CSS puro**, com o 
 
 ## 📸 Preview
 
-<img src="./img/preview.png" width="65%">
-<img src="./img/preview-mobile.png" width="15%">
+### WEB
+
+<img src="./img/preview.png" width="100%">
+
+### Mobile
+
+<img src="./img/preview-mobile.png" width="30%">
 
 ## 🚀 Tecnologias
 
