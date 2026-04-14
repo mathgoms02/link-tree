@@ -1,14 +1,15 @@
 :root {
   --background-color-gradient: linear-gradient(
     to bottom left,
-    #0f172a,
-    #354977
+    #0b1220,
+    #1e3a8a
   );
-  --background-color-container: #1e293b5b;
 
-  --text-color: #f1f5f9;
+  --background-color-container: rgba(30, 58, 138, 0.15);
 
-  --button-color-1: #243657;
-  --button-color-2: #0f172a;
+  --text-color: #e2e8f0;
+
+  --button-color-1: #1e40af;
+  --button-color-2: #0b1220;
   --button-color-hover: #3b82f6;
 }
