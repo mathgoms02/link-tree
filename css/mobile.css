@@ -1,0 +1,21 @@
+@media (max-width: 450px) {
+  .main-container {
+    width: 90%;
+  }
+
+  .main-photo > img {
+    width: 150px;
+  }
+
+  .links-header > h2 {
+    font-size: 24px;
+  }
+
+  .links-header > p {
+    font-size: 14px;
+  }
+
+  .link-tree {
+    font-size: 14px;
+  }
+}
