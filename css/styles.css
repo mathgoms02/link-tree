@@ -86,19 +86,7 @@ body {
   cursor: pointer;
 }
 
-@keyframes load {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
 /* Contact Session */
-.loading {
-  animation: load 2s infinite;
-}
 
 .contact {
   display: flex;
